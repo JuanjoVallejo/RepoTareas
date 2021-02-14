@@ -1,0 +1,27 @@
+Carne = "Doble triple"
+Salsa = "De Coral"
+Decorado = "De lujo"
+Estilo = "Animal"
+Guijarros = "Extra"
+Vibración = "Exprimida"
+Eje = "Con grasa ligera"
+Hazlo = "Llorar"
+Quémalo = "Sí"
+Nadando = "Sí"
+Pepinillos = "Sí"
+
+
+if (Carne == "Doble triple" or 
+Salsa == "De Coral" or
+Decorado == "De lujo" or
+Estilo == "Animal" or 
+Guijarros == "Extra" or
+Vibración == "Exprimida" or
+Eje == "Con grasa ligera" or 
+Hazlo == "Llorar" or
+Quémalo == "Sí" or
+Nadando == "Sí" or
+Pepinillos == "No"):
+  print("Quiere la kangreburguer")
+else:
+  print("No quiere la kangrebuger")
